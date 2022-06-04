@@ -28,4 +28,6 @@ I am using ESP32 Devkit V1
 * I hope you all like it :-D
   
 # Reference Material:
-* 
+* https://microchip.ua/simcom/LTE/A76xx/A7682/A76XX%20Series_AT_Command_Manual_V1.06.pdf
+* https://manuals.plus/m/d70efb93e7bade7e6e61c78447a99e33b2f6607d08d3fa59b8ac5c65f8bb201d.pdf
+* https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/datasheet/module/sim7680/A76XX%20Series_UART_Application%20Note_V1.02.pdf
